@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(100, 100, 100);
+    padding: 5em;
+}
+
+.texto1{
+    font-size: 100px;
+    text-align: center;
+}
+
+.texto2 {
+    font-size: 50px;
+    padding: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.texto3 {
+    font-size: 30px;
+
+}
+.texto4 {
+    background-color: black;
+    padding-bottom: 40px;
+}
+.texto5 {
+    background-color: rgb(240, 190, 209);
+}
+.texto6 {
+    font-size: 60px ;
+    text-align: center;
+}
+.ta{
+    background-color: bisque;
+}
+.bordeb {
+    border: cadetblue;
+    border-radius: 15px;
+}
