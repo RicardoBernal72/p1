@@ -1,3 +1,11 @@
+@font-face {
+    font-family: Yos;
+    src: url(Trabajos-clase/Recursos/fuente/holysthic/Holysthic.ttf);
+}
+
+
+
+
 body{
     background-color: rgb(100, 100, 100);
     padding: 5em;
@@ -6,6 +14,7 @@ body{
 .texto1{
     font-size: 100px;
     text-align: center;
+    
 }
 
 .texto2 {
@@ -19,7 +28,7 @@ body{
 
 }
 .texto4 {
-    background-color: black;
+    background-color: rgb(65, 63, 63);
     padding-bottom: 40px;
 }
 .texto5 {
@@ -28,6 +37,7 @@ body{
 .texto6 {
     font-size: 60px ;
     text-align: center;
+    font-family: 'Yos';
 }
 .ta{
     background-color: bisque;
