@@ -1,6 +1,6 @@
 
 .fondo1{
-    background-color: rgb(47, 206, 158);
+    background-color: rgb(39, 187, 143);
 }
 .fondo2{
     background-color: rgb(204, 32, 32);
@@ -41,26 +41,26 @@
     background-color: blueviolet;
     text-align: center;
     border: cornsilk 3px solid;
-    font-size: 25px;
+    font-size: 30px;
     color: cornsilk;
     
 }
 .tex6{
     text-align: center;
     color: rgb(255, 255, 255);
-    font-size: 20px;
+    font-size: 30px;
     
 }
 .text7{
     padding-right: 40px;
-    font-size: 20px;
+    font-size: 30px;
     color: black;
     text-align: left;
 }
 .base{
     background-color: rgb(230, 34, 230);
-    width:600px;
-    margin-top: 10px;
+    width:800px;
+    margin-top: 20px;
 }
 .base2{
     background-color: rgb(1, 251, 255);
@@ -70,17 +70,17 @@
 }
 .b1{
     border: white 3px solid;
-    font-size: 20px;
+    font-size: 30px;
     text-align: center;
 }
 .b2{
     border: ghostwhite 3px solid;
-    font-size: 20px;
+    font-size: 30px;
     color: black;
 }
 .b3{
     border: white 3px solid;
-    font-size: 20px;
+    font-size: 30px;
 
 }
 
