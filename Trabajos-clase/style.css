@@ -1,0 +1,92 @@
+
+.fondo1{
+    background-color: rgb(47, 206, 158);
+}
+.fondo2{
+    background-color: rgb(204, 32, 32);
+    width: 100%;
+}
+.x1{
+    background-color: rgb(33, 143, 55);
+}
+.tex1{
+    padding-right: 100px;
+    border: cornsilk 3px solid;
+    font-size: 25px;
+    width: 100%;
+}
+.tex2{
+    text-align: center;
+    padding-left: 350px;
+    padding-right: 350px;
+    border: cornsilk 3px solid;
+    font-size: 25px;
+}
+.tex3{
+    padding-top: 200px;
+    padding-bottom: 200px;
+    padding-right: 200px;
+    border: cornsilk 3px solid;
+    font-size: 25px;
+}
+.tex4{
+    padding-left: 300px;
+    padding-right: 300px;
+    border: cornsilk 3px solid;
+    font-size: 25px;
+}
+.tex5{
+    padding-left: 400px;
+    padding-right: 380px;
+    background-color: blueviolet;
+    text-align: center;
+    border: cornsilk 3px solid;
+    font-size: 25px;
+    color: cornsilk;
+    
+}
+.tex6{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    
+}
+.text7{
+    padding-right: 40px;
+    font-size: 20px;
+    color: black;
+    text-align: left;
+}
+.base{
+    background-color: rgb(230, 34, 230);
+    width:600px;
+    margin-top: 10px;
+}
+.base2{
+    background-color: rgb(1, 251, 255);
+    margin-left: 60px;
+    margin-right: 60px;
+    border: dashed red;
+}
+.b1{
+    border: white 3px solid;
+    font-size: 20px;
+    text-align: center;
+}
+.b2{
+    border: ghostwhite 3px solid;
+    font-size: 20px;
+    color: black;
+}
+.b3{
+    border: white 3px solid;
+    font-size: 20px;
+
+}
+
+.x2{
+    width: 100%;
+}
+.x4{
+    border: dashed white;
+}

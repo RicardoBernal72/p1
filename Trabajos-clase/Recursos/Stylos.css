@@ -2,10 +2,6 @@
     font-family: holy;
     src: url(fuente/holysthic/Holysthic.ttf);
 }
-
-
-
-
 body{
     background-color: rgb(100, 100, 100);
     padding: 5em;
@@ -59,4 +55,50 @@ body{
 }
 .queso1{
     border-radius: 30px;
+}
+
+
+.fondo1{
+    background-color: rgb(47, 206, 158);
+}
+.fondo2{
+    background-color: rgb(204, 32, 32);
+}
+.x1{
+    background-color: rgb(33, 143, 55);
+}
+.tex1{
+    padding-right: 100px;
+    border: cornsilk 3px solid;
+}
+.tex2{
+    text-align: center;
+    padding-left: 350px;
+    padding-right: 350px;
+    border: cornsilk 3px solid;
+}
+.tex3{
+    padding-top: 200px;
+    padding-bottom: 200px;
+    padding-right: 200px;
+    border: cornsilk 3px solid;
+}
+.tex4{
+    padding-left: 300px;
+    padding-right: 300px;
+    border: cornsilk 3px solid;
+}
+.tex5{
+    padding-left: 400px;
+    padding-right: 380px;
+    background-color: blueviolet;
+    text-align: center;
+    font-family: 'Holy';
+    border: cornsilk 3px solid;
+    font-size: 25px;
+    
+}
+.b1{
+    border: cornsilk 3px solid;
+    margin: 3px;
 }
