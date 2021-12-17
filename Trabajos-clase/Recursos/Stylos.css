@@ -48,6 +48,7 @@ body{
 .ta{
     background-color: bisque;
     border-radius: 30px;
+    width: 100%;
 }
 .bordeb {
     border: cadetblue;
