@@ -2,6 +2,8 @@
     font-family: holy;
     src: url(fuente/holysthic/Holysthic.ttf);
 }
+
+
 body{
     background-color: rgb(100, 100, 100);
     padding: 5em;
@@ -29,6 +31,7 @@ body{
 }
 .texto5 {
     background-color: rgb(240, 190, 209);
+    border-radius: 20px;
 }
 .texto6 {
     font-size: 60px ;
