@@ -16,17 +16,18 @@ body{
 }
 
 .texto2 {
-    font-size: 50px;
+    font-size: 35px;
     padding: 20px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Times New Roman', Times, serif;
 
 }
 .texto3 {
     font-size: 40px;
 
 }
+
 .texto4 {
-    background-color: rgb(88, 86, 86);
+    background-color:  rgb(88, 86, 86);
     padding-bottom: 40px;
 }
 .texto5 {
@@ -39,23 +40,24 @@ body{
     font-family: 'Holysthic';
 }
 .texto7 {
-    background-color: violet;
+    background-color: #c957bc;
     border-radius: 20px;
 }
 .texto8 {
-    background-color: sandybrown;
-    font-size: 45px;
+    background-color: #ffc872;
+    border-radius: 15px;
+    font-size: 40px;
 
 
 }
 .ta{
-    background-color: bisque;
-    border-radius: 30px;
+    background-color: #ffe3b3;
+    border-radius: 20px;
     width: 100%;
 }
 .bordeb {
     border: cadetblue;
-    border-radius: 35px;
+    border-radius: 30px;
 }
 .queso1{
     border-radius: 30px;
@@ -114,5 +116,7 @@ body{
 
 
 .forima{
-    border-radius: 10px;
+    
+    border-radius: 12px;
+    
 }
